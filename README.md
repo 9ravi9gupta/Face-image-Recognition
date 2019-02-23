@@ -33,9 +33,9 @@ Follow this Steps to Understand and Perform the Verification and Recognition Of 
             c. How to Perform Face Recognition
                        
 
-You can download the trained model file from this link:- "https://drive.google.com/open?id=1GfmuLXdb7ZeIp96rPdJjJaoGHB4o4Lji"
+* You can download the trained model file from this link:- "https://drive.google.com/open?id=1GfmuLXdb7ZeIp96rPdJjJaoGHB4o4Lji"
 
-You can download the dataset from this link :- https://drive.google.com/open?id=1214jBIXpQpe5lQg9iMPOUpAiKvk2slK7
+* You can download the dataset from this link :- https://drive.google.com/open?id=1214jBIXpQpe5lQg9iMPOUpAiKvk2slK7
     
 I Strongly recommended that use google colab to retrieve data and run code.
 
